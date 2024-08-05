@@ -38,13 +38,6 @@ Download ngrok and run after that set create env
 
 In the root of the project create a .env file and set the environment variables
 ```sh
-# Environment
-ENVIRONMENT = 'production'
-
-# Django Secret Key
-SECRET_KEY = 
-
-# Database configs
 ADMINS =  # example 8596841,18496223,645441
 BOT_TOKEN = # example 6363356505:AAFqSXkt2VJfd
 ip = # example localhost
